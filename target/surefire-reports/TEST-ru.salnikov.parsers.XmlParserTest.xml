@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="ru.salnikov.parsers.XmlParserTest" time="0.009" errors="1" skipped="0">
+<testsuite tests="1" failures="0" name="ru.salnikov.parsers.XmlParserTest" time="0.003" errors="1" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="12.0.1+12"/>
@@ -63,7 +63,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ru.salnikov.parsers.XmlParserTest" name="parseArray" time="0.009">
+  <testcase classname="ru.salnikov.parsers.XmlParserTest" name="parseArray" time="0.003">
     <error message="Implementation of JAXB-API has not been found on module path or classpath." type="javax.xml.bind.JAXBException">javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
  - with linked exception:
 [java.lang.ClassNotFoundException: com.sun.xml.internal.bind.v2.ContextFactory]

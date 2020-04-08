@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="ru.salnikov.stream_api_task.StreamAPITaskTest" time="1.49" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="ru.salnikov.stream_api_task.StreamAPITaskTest" time="2.817" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="12.0.1+12"/>
@@ -63,8 +63,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="yearAndAmountOfPeopleBornThatYear" time="0.049"/>
-  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="personOlderThan30_NameHasA_SalaryLowerThan30000" time="1.44"/>
+  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="yearAndAmountOfPeopleBornThatYear" time="0"/>
+  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="personOlderThan30_NameHasA_SalaryLowerThan30000" time="2.814"/>
   <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="personWithTwoAInRowInName" time="0"/>
-  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="divisionBySalary" time="0.001"/>
+  <testcase classname="ru.salnikov.stream_api_task.StreamAPITaskTest" name="divisionBySalary" time="0.003"/>
 </testsuite>
